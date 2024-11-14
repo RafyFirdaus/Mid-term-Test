@@ -1,0 +1,14 @@
+/* Tambahkan styling untuk warna latar dalam mode terang dan gelap */
+body {
+    transition: background-color 0.5s ease;
+}
+
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+}

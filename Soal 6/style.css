@@ -1,0 +1,9 @@
+/* Tambahkan styling untuk membuat gambar lingkaran dengan border dan bayangan */
+img {
+    border-radius: 50%;
+    border: 5px solid #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 20%;
+    
+    
+}

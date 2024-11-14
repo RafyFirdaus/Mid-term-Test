@@ -1,0 +1,31 @@
+/* Tambahkan styling untuk heading, paragraf, dan list di sini */
+h1 {
+    font-family: 'Arial', sans-serif;
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    font-family: 'Georgia', serif;
+    color: #34495e;
+    line-height: 1.6;
+    margin: 20px;
+    text-align: justify;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    width: 200px;
+    margin: 20px auto;
+}
+
+ul li {
+    margin: 5px 0;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
